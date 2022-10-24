@@ -21,19 +21,19 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">TECH NEWS</a>
+                    <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">GADGET NEWS</a>
+                    <a class="nav-link" href="#">Gameplay</a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">ANDROID NEWS</a>
+                    <a class="nav-link" href="#">Synopsis</a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">APPLE NEWS</a>
+                    <a class="nav-link" href="#">Development</a>
                   </li>
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">CSDM NEWS</a>
+                    <a class="nav-link" href="#">Release/Reception</a>
                   </li>
             </ul>
         </div>
