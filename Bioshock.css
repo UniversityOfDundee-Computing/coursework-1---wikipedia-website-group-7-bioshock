@@ -23,3 +23,17 @@ a:hover {color: #24a0bf;}
 
 #imgCard3{
   background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('') center / cover no-repeat!important;
+}
+
+.full-spanbackground {   height: 100vh;    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/7.jpg?raw=true') center / cover no-repeat!important; }
+
+
+  #buyNow-link{
+    text-decoration:none;
+    color:#26C6DA;
+  }
+
+#MoreInfo-link{
+    text-decoration:none;
+    color:#26C6DA;
+  }
