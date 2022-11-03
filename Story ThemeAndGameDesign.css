@@ -1,0 +1,144 @@
+
+
+.mainGamePlayContainer{
+  background-image: url(https://sites.google.com/site/bioshockdarkuniverse/_/rsrc/1518267862872/page-27/CtnuGNZUkAA92JX.jpg) ;
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top:100px;
+  padding: 0;
+  
+
+  }
+
+  .nav-barbutton
+  {
+
+  }
+  
+.container-heading{
+  text-align:center;
+color:#24a0bf;
+width: max-content;
+margin:10px auto 10px;
+justify-content: center;
+
+}
+.containerGamePlay{
+margin: auto;
+width: 100%;
+
+}
+
+.container2{
+  background-image: url(https://assets.reedpopcdn.com/139765141361.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/139765141361.jpg) ;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 100px;
+  padding: 0;
+ 
+}
+
+
+.container3{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  border: solid black 1px;
+  padding: 2;
+ 
+}
+.containerimg img{
+  height: 300px;
+} 
+.containerimg{
+   color: #0000FF;
+  display: flex;
+  justify-content: space-between;
+
+    
+  margin: 10rem auto 0 auto;
+}
+.containerimg h2{
+  margin: 24px;
+  
+}
+.containerimg p{
+  margin: 15px;
+ color: red;
+}
+.card img{
+  height:435px;
+  
+}
+.card p{
+  text-align: justify;
+}
+/*header{
+ text-align: center;
+}*/
+.dcon{
+  border-style:outset;
+border-color: rgb(88, 185, 230);
+  margin: 30px; 
+  background-color: rgba(34, 56, 51, 0.6);
+}
+h1{
+  color:rgb(109, 228, 191);
+}
+
+.floating-image{
+  
+  width: 40%;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 10px;
+  border-style:outset;
+border-color: rgb(88, 185, 230);
+object-fit:;
+}
+
+  
+
+.floating-image.right{
+  float: right;
+  margin-left: 35px;
+  margin-bottom: 10px;
+  
+
+}
+.card{
+  
+  margin: 5px auto auto;
+font-size: small; 
+}
+ p{
+  color: rgba(17, 235, 213);
+}
+h2{
+  color: rgba(0, 255, 255, 0.943);
+}
+.mainGamePlayContainer p {
+  color: rgba(17, 235, 213, 0.977);
+}
+.color{
+  background-color: rgba(34, 56, 51, 0.6);
+}
+ .color {
+border-style:outset;
+border-color: rgb(88, 185, 230);
+ }
+
+ p{
+  text-align: justify;
+ }
+ .carousel-item {
+  width: 500px;
+ }
+ .color
+ {animation-duration: 9s}
+
+
