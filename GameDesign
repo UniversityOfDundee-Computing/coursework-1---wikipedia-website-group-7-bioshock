@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="	https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="gameDesignStory.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+  <title>BioShock</title>
+</head>
+
+<body class="container2">
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-custom navbar-dark bg-black fixed-top">
+      <div class="container-fluid">
+        <img
+          src="https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BIOSHOCK%20LOGO.png?raw=true"
+          alt="Bootstrap" width="120" height="60" class="animate__animated animate__rubberBand animate__slow animate__infinite">
+        <a class="navbar-brand" href="#">
+          <h1 class="ms-5">Bioshock</h1>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+          aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="Bioshock homepage.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="synopsis.html">Synopsis</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Gameplay.html">Gameplay</a>
+            </li>
+            </li>
+            </li>
+            <li>
+              <a class="nav-link" href="#">Release</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="BioShock reception and media.html">Reception and Media</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Development
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item"
+                    href="http://127.0.0.1:5500/coursework-1---wikipedia-website-group-7-bioshock/GamePlay.html#">Game
+                    Design</a></li>
+                <li><a class="dropdown-item" href="#">Story and Theme Development</a></li>
+              </ul>
+            </li>
+            <form class="form-inline px-3 my-2 my-lg-0">
+              <a class="btn btn-outline-info btn-outline-override"
+                href="https://store.steampowered.com/app/7670/BioShock/" target="_blank"> Buy now</a>
+            </form>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+ 
+   
+      
+ </div>
+
+ <div class="container-heading">
+  <div class=" animate__animated animate__headShake text-white bg-opacity-75 ">
+    <h2>
+      <div class="color rounded "> Game Design, Graphics Engine, & Soundtrack </div>
+    </h2>
+  </div>
+</div>
+
+
+
+
+    </header>
+  <main>
+    <div class="gcontainer">
+
+      <div class="dcon ">
+        
+              <img src="https://images4.alphacoders.com/802/thumb-1920-80274.jpg" alt=""
+          class="img-responsive floating-image right animate__animated animate__flipInX">
+            
+        
+          
+
+        <h2 class="text text-center animate__animated animate__headShake">Game Design</h2>
+       <p class="ms-2">Lead developer Ken Levine had created Irrational Games in 1997 out of former members from Looking Glass
+          Studios. Their first game was System Shock 2, a sequel to Looking Glass's System Shock, and was met with
+          critical success, though it did not prove a financial one. Levine had attempted to pitch a sequel to System
+          Shock 2 to Electronic Arts, but the publisher rejected the idea based on the poor performance of the earlier
+          game. Irrational would proceed to develop other games, including Freedom Force, Tribes: Vengeance, the
+          canceled title Deep Cover, and the completed The Lost which was never released due to legal complications. At
+          this point, Levine wanted to return to a game in the same style as System Shock 2, a more free-form game with
+          strong narrative.</p>
+        
+
+          <p class="ms-2">In 2002, the team had come up with a core gameplay mechanic idea based on three groups of forces; drones that
+          would carry a desirable resource, protectors that would guard the drones, and harvesters that would attempt to
+          take the resource from the drones; these would eventually bear out as the Little Sisters, Big Daddies, and
+          Splicers in the final game, but at the time of the concept, there was no set theme. They began working on
+          creating a setting for the game as to be able to pitch the idea to game publishers. A 2002 demonstration
+          version was based on the Unreal Engine 2 for the first Xbox. This demonstration was primarily set aboard a
+          space station overtaken with genetically-mutated monsters; the main character was Carlos Cuello, a "cult
+          deprogrammer"—a person charged with rescuing someone from a cult, and mentally and psychologically readjusting
+          that person to a normal life. Ken Levine cites an example of what a cult deprogrammer does: "[There are]
+          people who hired people to [for example] deprogram their daughter who had been in a lesbian relationship. They
+          kidnap her and reprogram her, and it was a really dark person, and that was the [kind of] character that you
+          were." This story would have been more political in nature, with the character hired by a Senator. The team
+          collectively agreed that this game was not what they had set out to make, and were having trouble finding a
+          publisher. They considered ending development, but as news about their efforts to create a spiritual successor
+          to System Shock 2 began to appear in gaming magazines and websites, the team opted to continue development,
+          performing a full revamp of the game.</p>
+
+          <p class="ms-2">By 2004, 2K Games, a subsidiary of Take-Two Interactive, offered to publish the game primarily based on the
+          drone/protector/harvester concept, giving Irrational the freedom to develop the story and setting. By this
+          point, the story and setting had changed significantly, taking place in an abandoned World War II-era Nazi
+          laboratory that had been recently unearthed by 21st-century scientists. Over the decades, the genetic
+          experiments within the labs had gradually formed themselves into an ecosystem centered on the three groups.
+          This version of the game included many of the gameplay elements that would remain in the final BioShock,
+          themselves influenced by concepts from System Shock 2. These elements included the use of plasmids and EVE,
+          the need to use stealth or other options to deal with automated security systems, direction through the
+          environment from a non-player character relayed over a radio, and story elements delivered through audio
+          recordings and "ghosts" of deceased characters.</p>
+
+          <p class="ms-2">While the gameplay with the 2004 reveal was similar to what resulted in the released version of BioShock,
+          both design and story changed, consistent with what Levine says was then-Irrational Games' guiding principle
+          of putting game design first. These areas were also issued due to some internal strife and lack of
+          communication between the various teams within Irrational, part of the result of having to expand the team
+          from six to sixty members for the scope of the project. The environment was considered bland, and there were
+          difficulties by the team's artists to come up with a consistent vision to meet the level designer's goals. A
+          critical junction was a short experiment performed by level designer Jean Paul LeBreton and artist Hoagy de la
+          Plante, setting themselves aside to co-develop a level that would later become part of the "Tea Garden" area
+          in the released game, which Levine would later use as a prime example of a "great BioShock space", emphasizing
+          the need for departments to work together. Levine also found that the cyberpunk theme had been overplayed
+          considering their initial reject from Electronic Arts for System Shock 3, leading towards the underwater
+          setting of Rapture.</p>
+
+         <p class="ms-2">The game's lead level designer was Bill Gardner. He cited Capcom's survival horror series Resident Evil as a
+          significant influence on BioShock, stating there are "all these nods and all these little elements that I
+          think you can see where Resident Evil inspired us". The team were particularly influenced by Resident Evil 4,
+          including its approach to the environments, combat, and tools, its game design and tactical elements, its
+          "gameplay fuelled storytelling" and inventory system, and its opening village level in terms of how it
+          "handled the sandbox nature of the combat" and in terms of "the environment".</p>
+
+
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <div class="containerm text-center">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xxl-6 animate__animated animate__zoomInDown animate__delay-1s">
+          <div class="card text-bg-dark ms-4 me-4 mb-2">
+            <img src="https://wallpapercave.com/wp/wp5380718.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+              <h2 class="card-title">Graphics Engine</h2>
+              <p class="card-text"> BioShock uses a heavily
+                modified Unreal Engine 2.5 with some of the advanced technologies from Unreal Engine 3. Irrational Games
+                had previous experience with modifying and expanding on the Unreal Engine in SWAT 4, and continued this
+                advancement of the engine within BioShock. One significant improvement they added was improved water
+                effects, given the nature of the game's setting, hiring a programmer and artist to focus on the water
+                effects. This graphical enhancement has been lauded by critics, with GameSpot saying, "Whether it's
+                standing water on the floor or sea water in after an explosion, it will blow you away every time
+                you see it." BioShock also uses the Havofor an enhancement of in-game
+                physics, the integration of ragdoll physics, and allows for more lifelike movement by elements of the
+                environment. The Windows version was built to work in both Direct3D 10 (DirectX 10) and DirectX 9, with
+                the DirectX 10 version supporting additional water and particle effects.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-12  col-lg-6 col-xxl-6 animate__animated animate__zoomInUp animate__delay-1s">
+          <div class="card text-bg-dark ms-4 me-4 mb-2">
+            <img src="https://images3.alphacoders.com/487/48737.jpg" class="card-img" alt="...">
+            <div class="card-img-overlay">
+              <h5 class="card-title"><h2>Soundtrack</h2></h5>
+              <p class="card-text">BioShock contains both licensed music and an original score. The licensed music
+                from the 1930s, 1940s, and 1950s can be heard playing on phonograph throughout Rapture. In total, 30
+                licensed songs can be heard throughout the game. The original score was composed by Garry Schyman. He
+                composed his pieces with the chosen licensed music as to keep the same feel, while also
+                trying to bring out something that was "eerie, frightening and at times beautiful" to mesh well with
+                Rapture's environments.
+
+              </p>
+              <p class="card-text">2K Games released an orchestral score soundtrack on their official homepage on
+                August 24, 2007. Available in MP3 format, the score contains 12 of the 22 tracks from the game. The
+                Limited Edition version of the game came with The Rapture EP remixes by Moby and Oscar The Punk. The
+                three remixed tracks on the CD include "Beyond the Sea", "God Bless the Child" and "Wild Little
+                Sisters"; the original recordings of these songs are in the game. BioShock's score was released on a
+                vinyl LP with the BioShock 2 Special Edition.</p>
+            </div>
+          </div>
+        </div>
+</div>
+       </div> 
+      </div>
+    </main>
+</body>
+</html>
