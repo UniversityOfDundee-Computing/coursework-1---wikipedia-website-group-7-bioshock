@@ -12,6 +12,20 @@
 
   }
 
+.synopsisContainer{
+    background-image: url(https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/Map%201.JPG?raw=true) ;
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top:100px;
+    padding: 0;
+    
+  
+  
+}
+  
+
 
 
   
