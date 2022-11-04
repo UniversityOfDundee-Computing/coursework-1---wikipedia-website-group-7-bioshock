@@ -141,4 +141,42 @@ border-color: rgb(88, 185, 230);
  .color
  {animation-duration: 9s}
 
+.footer-text{
+    color:#fff;
+  }
+  
+  .footer-text1{
+    font-style:inherit;
+  }
+  
+  a:link{
+    color:#24a0bf;
+    background-color:transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #24a0bf;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: solid;
+  }
+  
+  a:active {
+    color: #24a0bf;
+    background-color: transparent;
+    text-decoration:underline;
+  }
+.container4{
+    background-color: #000;
+}
 
+.container5{
+  width:70%;
+  margin: auto auto 10px auto;
+  
+}
