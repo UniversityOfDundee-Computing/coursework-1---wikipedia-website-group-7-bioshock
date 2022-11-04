@@ -3,3 +3,20 @@
     margin-top: 10px;
     padding: 150px;
 }
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+}
+
+h2,h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+    font-size: large;
+}
+
+body   {
+    background-color:#428986;
+}
