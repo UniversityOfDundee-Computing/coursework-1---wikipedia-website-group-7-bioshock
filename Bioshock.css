@@ -7,33 +7,57 @@ Dark black/green - #0C1713
 
 /*Background Image and Cards for homepage*/
 
-.full-spanbackground {   height: 100vh;    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/7.jpg?raw=true') center / cover no-repeat!important; }
+.background{
 
-a {color: white;}
-
-a:hover {color: #24a0bf;}
-
-#imgCard1{
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('') center / cover no-repeat!important;
-}
-
-#imgCard2{
-  background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('') center / cover no-repeat!important;
-}
-
-#imgCard3{
-  background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('') center / cover no-repeat!important;
-}
-
-.full-spanbackground {   height: 100vh;    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/7.jpg?raw=true') center / cover no-repeat!important; }
-
-
-  #buyNow-link{
-    text-decoration:none;
-    color:#26C6DA;
-  }
-
-#MoreInfo-link{
-    text-decoration:none;
-    color:#26C6DA;
-  }
+  background-image: url(https://cdn.2kgames.com/web/common/images/bioshock-tc_keyart_L_1.jpg) ;
+ 
+   background-size: cover;
+ 
+   background-attachment: fixed;
+ 
+   background-repeat: no-repeat;
+ 
+   background-position: center;
+ 
+   margin-top: 100px;
+ 
+ }
+ a {color: white;}
+ 
+ a:hover {color: #24a0bf;}
+ 
+ #imgCard1{
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('') center / cover no-repeat!important;
+ }
+ 
+ #imgCard2{
+   background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('') center / cover no-repeat!important;
+ }
+ 
+ #imgCard3{
+   background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('') center / cover no-repeat!important;
+ }
+ 
+ .full-spanbackground {   height: 100vh;    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/7.jpg?raw=true') center / cover no-repeat!important; }
+ 
+ 
+   #buyNow-link{
+     text-decoration:none;
+     color:#26C6DA;
+   }
+ 
+ #MoreInfo-link{
+     text-decoration:none;
+     color:#26C6DA;
+   }
+ 
+ .container4 { background-color: rgba(34,56,51,0.6);
+   margin:20px;
+ 
+   }
+ 
+   .p,h1{
+     color:#24a0bf;
+     margin-left: 80px;
+ 
+   }
