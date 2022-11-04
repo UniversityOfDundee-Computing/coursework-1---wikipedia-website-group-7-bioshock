@@ -1,5 +1,5 @@
 body{
-    background-image:url(https://cdn.2kgames.com/web/common/images/bioshock-tc_keyart_L_1.jpg) ;
+    background-image:url(https://github.com/UniversityOfDundee-Computing/coursework-1---wikipedia-website-group-7-bioshock/blob/main/BioShock%20Images/map5.JPG?raw=true) ;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -16,6 +16,8 @@ h1 {
 
 h2,h3 {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #24a0bf;
 }
 
 p {
@@ -44,3 +46,38 @@ body   {
     margin: 10px;
     padding: 10px;
 }
+
+.container4{
+    background-color: black;
+}
+
+.footer-text{
+    color:#fff;
+  }
+  
+  .footer-text1{
+    font-style:inherit;
+  }
+  
+  a:link{
+    color:#24a0bf;
+    background-color:transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #24a0bf;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: solid;
+  }
+  
+  a:active {
+    color: #24a0bf;
+    background-color: transparent;
+    text-decoration:underline;
+  }
