@@ -1,0 +1,32 @@
+#gameplayScreenshots{
+   width:1500px;
+   padding: auto;
+   margin: auto;
+}
+
+main {
+    margin-top: 10px;
+    padding: 150px;
+    background-color: #1E352F;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+}
+
+.text-center {
+    font-family: 'Roboto', sans-serif;
+    color: azure;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+    font-size: large;
+    margin-top: auto;
+    padding: auto;
+    color:aliceblue
+}
+
+.card{
+    background-color:#335145;
+}
